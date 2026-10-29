@@ -89,7 +89,11 @@ My future work will include frontend interfaces, backend APIs, and full-stack ap
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arlequin-stack&amp;theme=dark&amp;bg_color=0D1117&amp;title_color=FFFFFF&amp;text_color=FFFFFF&amp;icon_color=00BFFF&amp;chart_color=00BFFF&amp;border_color=30363D" alt="GitHub Statistics" width="100%">
 </td>
 <td width="50%" align="center" valign="middle">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arlequin-stack&amp;theme=dark&amp;bg_color=0D1117&amp;title_color=FFFFFF&amp;text_color=FFFFFF&amp;chart_color=00BFFF&amp;border_color=30363D" alt="Top Languages" width="100%">
+<img
+  src="https://ghstats.dev/api/langs?username=arlequin-stack&amp;layout=horizontal_list&amp;max_langs=4&amp;bg=0D1117&amp;text=FFFFFF&amp;title_color=00BFFF&amp;hide_border=true"
+  alt="Top Languages"
+  width="100%"
+>
 </td>
 </tr>
 </table>
