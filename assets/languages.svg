@@ -1,0 +1,48 @@
+<svg width="600" height="380" viewBox="0 0 600 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Languages</title>
+  <desc id="desc">Language distribution across public non-fork repositories for arlequin-stack: CSS 44.5%, HTML 27.0%, JavaScript 22.0%, Python 6.5%.</desc>
+  <defs>
+    <linearGradient id="bg" x1="24" y1="16" x2="576" y2="364" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/><stop offset="0.52" stop-color="#080D15"/><stop offset="1" stop-color="#03060B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="44" y1="0" x2="556" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/><stop offset="0.55" stop-color="#60A5FA"/><stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(535 40) rotate(135) scale(210 245)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9" stop-opacity=".18"/><stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="dotGlow" x="-300%" y="-300%" width="700%" height="700%"><feGaussianBlur stdDeviation="2.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="1" y="1" width="598" height="378" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="598" height="378" rx="24" fill="url(#glow)"/>
+  <rect x="1.75" y="1.75" width="596.5" height="376.5" rx="23.25" stroke="#FFFFFF" stroke-opacity=".12" stroke-width="1.5"/>
+  <circle cx="45" cy="43" r="5" fill="#38BDF8" filter="url(#dotGlow)"/>
+  <text x="61" y="47" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2.1">ARLEQUIN-STACK / PROFILE</text>
+  <text x="44" y="91" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="29" font-weight="700" letter-spacing="-.7">Languages</text>
+  <text x="556" y="88" fill="#64748B" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.4">CODE DISTRIBUTION</text>
+  <rect x="44" y="108" width="512" height="1.5" rx=".75" fill="url(#accent)" opacity=".78"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+  <circle cx="49" cy="142" r="4" fill="#38BDF8"/>
+    <text x="62" y="147" fill="#E2E8F0" font-size="13" font-weight="700">CSS</text>
+    <text x="556" y="147" fill="#F8FAFC" text-anchor="end" font-size="16" font-weight="750">44.5%</text>
+    <rect x="62" y="158" width="494" height="4" rx="2" fill="#1E293B"/>
+    <rect x="62" y="158" width="219.95" height="4" rx="2" fill="#38BDF8"/>
+  <circle cx="49" cy="188" r="4" fill="#60A5FA"/>
+    <text x="62" y="193" fill="#E2E8F0" font-size="13" font-weight="700">HTML</text>
+    <text x="556" y="193" fill="#F8FAFC" text-anchor="end" font-size="16" font-weight="750">27.0%</text>
+    <rect x="62" y="204" width="494" height="4" rx="2" fill="#1E293B"/>
+    <rect x="62" y="204" width="133.13" height="4" rx="2" fill="#60A5FA"/>
+  <circle cx="49" cy="234" r="4" fill="#A5F3FC"/>
+    <text x="62" y="239" fill="#E2E8F0" font-size="13" font-weight="700">JavaScript</text>
+    <text x="556" y="239" fill="#F8FAFC" text-anchor="end" font-size="16" font-weight="750">22.0%</text>
+    <rect x="62" y="250" width="494" height="4" rx="2" fill="#1E293B"/>
+    <rect x="62" y="250" width="108.85" height="4" rx="2" fill="#A5F3FC"/>
+  <circle cx="49" cy="280" r="4" fill="#334155"/>
+    <text x="62" y="285" fill="#E2E8F0" font-size="13" font-weight="700">Python</text>
+    <text x="556" y="285" fill="#F8FAFC" text-anchor="end" font-size="16" font-weight="750">6.5%</text>
+    <rect x="62" y="296" width="494" height="4" rx="2" fill="#1E293B"/>
+    <rect x="62" y="296" width="32.07" height="4" rx="2" fill="#334155"/>
+  </g>
+  <text x="44" y="350" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.1">LIVE PUBLIC DATA</text>
+  <text x="556" y="350" fill="#64748B" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.1">UPDATED 2026-10-29 UTC</text>
+</svg>

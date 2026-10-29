@@ -1,0 +1,43 @@
+<svg width="600" height="380" viewBox="0 0 600 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Statistics</title>
+  <desc id="desc">Public GitHub statistics for arlequin-stack: 89 commits, 0 stars, 0 pull requests, and 13 repositories.</desc>
+  <defs>
+    <linearGradient id="bg" x1="24" y1="16" x2="576" y2="364" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/><stop offset="0.52" stop-color="#080D15"/><stop offset="1" stop-color="#03060B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="44" y1="0" x2="556" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/><stop offset="0.55" stop-color="#60A5FA"/><stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(535 40) rotate(135) scale(210 245)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9" stop-opacity=".18"/><stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="dotGlow" x="-300%" y="-300%" width="700%" height="700%"><feGaussianBlur stdDeviation="2.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="1" y="1" width="598" height="378" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="598" height="378" rx="24" fill="url(#glow)"/>
+  <rect x="1.75" y="1.75" width="596.5" height="376.5" rx="23.25" stroke="#FFFFFF" stroke-opacity=".12" stroke-width="1.5"/>
+  <circle cx="45" cy="43" r="5" fill="#38BDF8" filter="url(#dotGlow)"/>
+  <text x="61" y="47" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2.1">ARLEQUIN-STACK / PROFILE</text>
+  <text x="44" y="91" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="29" font-weight="700" letter-spacing="-.7">Statistics</text>
+  <text x="556" y="88" fill="#64748B" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.4">GITHUB OVERVIEW</text>
+  <rect x="44" y="108" width="512" height="1.5" rx=".75" fill="url(#accent)" opacity=".78"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+  <text x="44" y="148" fill="#E2E8F0" font-size="13" font-weight="700" letter-spacing=".8">COMMITS</text>
+    <text x="44" y="164" fill="#64748B" font-size="9" font-weight="600" letter-spacing=".8">PUBLIC AUTHOR MATCHES</text>
+    <text x="556" y="157" fill="#F8FAFC" text-anchor="end" font-size="24" font-weight="750">89</text>
+  <rect x="44" y="176" width="512" height="1" fill="#FFFFFF" opacity=".07"/>
+  <text x="44" y="194" fill="#E2E8F0" font-size="13" font-weight="700" letter-spacing=".8">STARS</text>
+    <text x="44" y="210" fill="#64748B" font-size="9" font-weight="600" letter-spacing=".8">ON OWNED REPOSITORIES</text>
+    <text x="556" y="203" fill="#F8FAFC" text-anchor="end" font-size="24" font-weight="750">0</text>
+  <rect x="44" y="222" width="512" height="1" fill="#FFFFFF" opacity=".07"/>
+  <text x="44" y="240" fill="#E2E8F0" font-size="13" font-weight="700" letter-spacing=".8">PULL REQUESTS</text>
+    <text x="44" y="256" fill="#64748B" font-size="9" font-weight="600" letter-spacing=".8">PUBLIC PRS CREATED</text>
+    <text x="556" y="249" fill="#F8FAFC" text-anchor="end" font-size="24" font-weight="750">0</text>
+  <rect x="44" y="268" width="512" height="1" fill="#FFFFFF" opacity=".07"/>
+  <text x="44" y="286" fill="#E2E8F0" font-size="13" font-weight="700" letter-spacing=".8">REPOSITORIES</text>
+    <text x="44" y="302" fill="#64748B" font-size="9" font-weight="600" letter-spacing=".8">PUBLIC REPOSITORIES</text>
+    <text x="556" y="295" fill="#F8FAFC" text-anchor="end" font-size="24" font-weight="750">13</text>
+  </g>
+  <text x="44" y="350" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.1">LIVE PUBLIC DATA</text>
+  <text x="556" y="350" fill="#64748B" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.1">UPDATED 2026-10-29 UTC</text>
+</svg>

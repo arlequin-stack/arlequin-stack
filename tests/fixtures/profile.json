@@ -1,0 +1,29 @@
+{
+  "updated_at": "2026-10-29T12:00:00Z",
+  "user": {"public_repos": 5},
+  "commits_total": 1234,
+  "pull_requests_total": 17,
+  "repos": [
+    {
+      "name": "portfolio",
+      "fork": false,
+      "archived": false,
+      "stargazers_count": 3,
+      "languages": {"JavaScript": 6000, "HTML": 2500, "CSS": 1500}
+    },
+    {
+      "name": "learning-fork",
+      "fork": true,
+      "archived": false,
+      "stargazers_count": 2,
+      "languages": {"Python": 9000}
+    },
+    {
+      "name": "api",
+      "fork": false,
+      "archived": false,
+      "stargazers_count": 5,
+      "languages": {"Python": 4000, "Shell": 500}
+    }
+  ]
+}
