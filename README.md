@@ -81,56 +81,24 @@ My future work will include frontend interfaces, backend APIs, and full-stack ap
 ### 06 / GITHUB ACTIVITY
 
 <table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-
-<h2>
-  <img
-    src="https://cdn.simpleicons.org/github/FFFFFF"
-    width="26"
-    height="26"
-    alt="GitHub"
-  />
-  &nbsp; Statistics
-</h2>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arlequin-stack&theme=dark"
-  alt="GitHub Statistics"
-  width="100%"
-/>
-
-    </td>
-    <td width="50%" align="center" valign="top">
-
-<h2>Languages</h2>
-
-<img
-  src="https://ghstats.dev/api/langs?username=arlequin-stack&layout=horizontal_list&max_langs=5&bg=0D1117&text=FFFFFF&title_color=00BFFF&hide_border=true"
-  alt="Programming Languages"
-  width="100%"
-/>
-
-    </td>
-  </tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<h3><img src="https://cdn.simpleicons.org/github/FFFFFF" width="22" height="22" alt="GitHub"> &nbsp; Statistics</h3>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arlequin-stack&theme=github_dark" alt="GitHub Statistics" width="100%">
+</td>
+<td width="50%" align="center" valign="top">
+<h3>Languages</h3>
+<img src="https://ghstats.dev/api/langs?username=arlequin-stack&layout=horizontal_list&max_langs=5&bg=0D1117&text=FFFFFF&title_color=00BFFF&hide_border=true" alt="Top Languages" width="100%">
+</td>
+</tr>
 </table>
 
-<br>
-
 <div align="center">
-
 <h3>CONTRIBUTION ACTIVITY</h3>
-
 <a href="https://github.com/arlequin-stack">
-  <img
-    src="https://ghchart.rshah.org/00BFFF/arlequin-stack"
-    alt="GitHub Contribution Graph"
-    width="100%"
-  />
+<img src="https://ghchart.rshah.org/00BFFF/arlequin-stack" alt="GitHub Contributions" width="100%">
 </a>
-
 </div>
-
 
 
 
