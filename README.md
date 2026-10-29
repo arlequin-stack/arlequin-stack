@@ -1,78 +1,87 @@
 
 <div align="center">
 
-# ARLEQUIN
+# ARLEQUIN.
 
-**Aspiring Full Stack Developer**
+### ASPIRING FULL STACK DEVELOPER
 
-`LEARN` · `BUILD` · `IMPROVE`
+`LEARN` / `BUILD` / `IMPROVE`
+
+Building things. Learning every day.
+
+[![GitHub](https://img.shields.io/badge/GITHUB-1220maliar-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/1220maliar)
 
 ---
 
-Building my skills, one project at a time.
-
 </div>
 
-## 01 / ABOUT
+### 01 / ABOUT ME
 
-I'm an aspiring Full Stack Developer, currently learning
-to build modern web applications.
+I'm an aspiring Full Stack Developer exploring the world of modern web development.
 
-- Focus: Full Stack Web Development
-- Currently learning: JavaScript
-- Interested in: Frontend, Backend and Software Engineering
-- Goal: Build real-world projects and grow as a developer
+I enjoy understanding how things work, writing clean code and turning ideas into real applications.
 
-## 02 / TECH STACK
+```text
+> CURRENT STATUS
+
+Role       : Full Stack Developer in progress
+Focus      : JavaScript fundamentals
+Environment: macOS / VS Code
+Mission    : Learn. Build. Improve.
+```
+
+### 02 / TECH STACK
 
 **Currently learning**
 
-`HTML` `CSS` `JavaScript` `Python`
+![HTML](https://img.shields.io/badge/HTML-171717?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-171717?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=white)
 
 **On my roadmap**
 
-`TypeScript` `React` `Tailwind CSS`
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat-square&logo=docker&logoColor=white)
 
-`Node.js` `Express` `FastAPI`
+### 03 / DEVELOPMENT TOOLS
 
-`PostgreSQL` `Docker` `AWS`
+![VS Code](https://img.shields.io/badge/VS_Code-171717?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-171717?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-171717?style=flat-square&logo=notion&logoColor=white)
 
-## 03 / PROJECTS
-
-My portfolio is currently under development.
-
-Projects and experiments will appear here
-as I progress through my learning roadmap.
-
-## 04 / CURRENT FOCUS
+### 04 / CURRENT FOCUS
 
 - [ ] Strengthen JavaScript fundamentals
-- [ ] Learn Git and GitHub workflows
-- [ ] Build my first portfolio projects
-- [ ] Explore modern frontend development
-- [ ] Master Git and GitHub with VS Code
+- [x] Set up Git and SSH authentication
+- [x] Connect GitHub with VS Code
+- [ ] Build first portfolio projects
+- [ ] Learn modern frontend development
+- [ ] Explore backend development
+
+### 05 / FEATURED PROJECTS
+
+Portfolio projects are coming soon.
+
+Currently focusing on building a strong foundation through practical learning and experimentation.
+
+### 06 / GITHUB ACTIVITY
+
+[![GitHub contributions](https://ghchart.rshah.org/1220maliar)](https://github.com/1220maliar)
 
 ---
 
 <div align="center">
 
-**Consistency over perfection.**
+### KEEP BUILDING.
 
-[GitHub Profile](https://github.com/1220maliar)
+*Consistency over perfection.*
+
+**ARLEQUIN © 2026**
 
 </div>
-
-<!--
-**1220maliar/1220maliar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
