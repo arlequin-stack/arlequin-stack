@@ -75,13 +75,19 @@ Currently building my programming foundations through hands-on practice and pers
 
 My future work will include frontend interfaces, backend APIs, and full-stack applications.
 
+
 ### 06 / GITHUB ACTIVITY
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arlequin-stack&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&hide_rank=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arlequin-stack&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=6)
+
 [![GitHub Contributions](https://ghchart.rshah.org/555555/arlequin-stack)](https://github.com/arlequin-stack)
 
 </div>
+
 
 ---
 
