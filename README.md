@@ -81,39 +81,20 @@ My future work will include frontend interfaces, backend APIs, and full-stack ap
 
 ### 06 / GITHUB ANALYTICS
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>◈ Statistics</h3>
-<p><sub>01 / GITHUB OVERVIEW</sub></p>
-<hr>
-<table>
-<tr><td>Commits</td><td align="right"><b>85</b></td></tr>
-<tr><td>Stars</td><td align="right"><b>0</b></td></tr>
-<tr><td>Pull requests</td><td align="right"><b>0</b></td></tr>
-<tr><td>Contributed to</td><td align="right"><b>13</b></td></tr>
-</table>
-<p align="center"><sub>DEVELOPMENT / ACTIVITY</sub></p>
-</td>
-<td width="50%" valign="top">
-<h3>⌘ Languages</h3>
-<p><sub>02 / CODE DISTRIBUTION</sub></p>
-<hr>
-<table>
-<tr><td>CSS</td><td align="right"><b>44.5%</b></td></tr>
-<tr><td>HTML</td><td align="right"><b>27.0%</b></td></tr>
-<tr><td>JavaScript</td><td align="right"><b>22.0%</b></td></tr>
-<tr><td>Python</td><td align="right"><b>6.5%</b></td></tr>
-</table>
-<p align="center"><sub>LANGUAGES / OVERVIEW</sub></p>
-</td>
-</tr>
-</table>
+<!-- These SVG files are generated from the GitHub API by .github/workflows/update-profile-cards.yml. -->
+<p align="center">
+  <a href="https://github.com/arlequin-stack">
+    <img src="./assets/statistics.svg" width="49%" alt="Live public GitHub statistics for arlequin-stack">
+  </a>
+  <a href="https://github.com/arlequin-stack?tab=repositories">
+    <img src="./assets/languages.svg" width="49%" alt="Live language distribution for arlequin-stack">
+  </a>
+</p>
 
 <div align="center">
 <h3>CONTRIBUTION ACTIVITY</h3>
 <a href="https://github.com/arlequin-stack">
-<img src="https://ghchart.rshah.org/00BFFF/arlequin-stack" alt="GitHub Contribution Graph" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arlequin-stack&amp;bg_color=0D1117&amp;color=94A3B8&amp;line=00BFFF&amp;point=F8FAFC&amp;area=true&amp;area_color=0369A1&amp;hide_border=true&amp;custom_title=Contribution%20Activity" alt="Dynamic GitHub contribution activity graph for arlequin-stack" width="100%">
 </a>
 </div>
 
