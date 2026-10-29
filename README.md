@@ -78,42 +78,45 @@ My future work will include frontend interfaces, backend APIs, and full-stack ap
 
 
 
-### 06 / GITHUB ACTIVITY
+
+### 06 / GITHUB ANALYTICS
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
-<h3><img src="https://cdn.simpleicons.org/github/FFFFFF" width="22" height="22" alt="GitHub"> &nbsp; Statistics</h3>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arlequin-stack&theme=github_dark" alt="GitHub Statistics" width="100%">
+<td width="50%" valign="top">
+<h3>◈ Statistics</h3>
+<p><sub>01 / GITHUB OVERVIEW</sub></p>
+<hr>
+<table>
+<tr><td>Commits</td><td align="right"><b>85</b></td></tr>
+<tr><td>Stars</td><td align="right"><b>0</b></td></tr>
+<tr><td>Pull requests</td><td align="right"><b>0</b></td></tr>
+<tr><td>Contributed to</td><td align="right"><b>13</b></td></tr>
+</table>
+<p align="center"><sub>DEVELOPMENT / ACTIVITY</sub></p>
 </td>
-
-<td width="50%" align="center" valign="top">
-  <h3>Languages</h3>
-  <p><sub>LANGUAGE DISTRIBUTION</sub></p>
-  <img src="https://ghstats.dev/api/langs?username=arlequin-stack&amp;layout=bar&amp;max_langs=4&amp;bg=0D1117&amp;text=FFFFFF&amp;title_color=00BFFF&amp;hide_border=true" alt="Dynamic language distribution" width="100%">
-  <p><sub>TECHNOLOGY OVERVIEW</sub></p>
-  <table>
-    <tr>
-      <td width="50%"><strong>01 / HTML</strong><br><sub>Web structure</sub></td>
-      <td width="50%"><strong>02 / CSS</strong><br><sub>Styling and layouts</sub></td>
-    </tr>
-    <tr>
-      <td><strong>03 / JavaScript</strong><br><sub>Logic and interaction</sub></td>
-      <td><strong>04 / Python</strong><br><sub>Backend learning</sub></td>
-    </tr>
-  </table>
-  <p><sub>BUILDING MY FULL STACK FOUNDATION</sub></p>
+<td width="50%" valign="top">
+<h3>⌘ Languages</h3>
+<p><sub>02 / CODE DISTRIBUTION</sub></p>
+<hr>
+<table>
+<tr><td>CSS</td><td align="right"><b>44.5%</b></td></tr>
+<tr><td>HTML</td><td align="right"><b>27.0%</b></td></tr>
+<tr><td>JavaScript</td><td align="right"><b>22.0%</b></td></tr>
+<tr><td>Python</td><td align="right"><b>6.5%</b></td></tr>
+</table>
+<p align="center"><sub>LANGUAGES / OVERVIEW</sub></p>
 </td>
-
 </tr>
 </table>
 
 <div align="center">
 <h3>CONTRIBUTION ACTIVITY</h3>
 <a href="https://github.com/arlequin-stack">
-<img src="https://ghchart.rshah.org/00BFFF/arlequin-stack" alt="GitHub Contributions" width="100%">
+<img src="https://ghchart.rshah.org/00BFFF/arlequin-stack" alt="GitHub Contribution Graph" width="100%">
 </a>
 </div>
+
 
 
 
