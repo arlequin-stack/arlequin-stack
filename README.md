@@ -51,7 +51,8 @@ Mission    : Learn. Build. Improve.
 
 ### 03 / DEVELOPMENT TOOLS
 
-![VS Code](https://img.shields.io/badge/VS_Code-171717?style=flat)
+
+![VS Code](https://img.shields.io/badge/VS_Code-171717?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNy41IDIgOC4xIDEwLjcgMy42IDcuMyAxLjUgOXY2bDIuMSAxLjcgNC41LTMuNCA5LjQgOC43TDIyLjUgMjBWNHpNMTggN3YxMGwtNi4yLTV6Ii8+PC9zdmc+)
 ![macOS](https://img.shields.io/badge/macOS-171717?style=flat&logo=apple&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-171717?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat&logo=github&logoColor=white)
