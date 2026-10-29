@@ -31,50 +31,33 @@ Mission    : Learn. Build. Improve.
 ```
 
 
+
 ### 02 / TECH STACK
 
+**Currently learning**
 
+![HTML5](https://img.shields.io/badge/HTML5-171717?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-171717?style=flat&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-171717?style=flat&logo=python&logoColor=white)
 
-<p><b>Currently learning</b></p>
+**On my roadmap**
 
-<p>
-  <img src="https://cdn.simpleicons.org/html5/FFFFFF" width="42" alt="HTML5" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css/FFFFFF" width="42" alt="CSS" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="42" alt="JavaScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/FFFFFF" width="42" alt="Python" />
-</p>
-
-<p><b>On my roadmap</b></p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/typescript/FFFFFF" width="42" alt="TypeScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react/FFFFFF" width="42" alt="React" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" width="42" alt="Node.js" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/fastapi/FFFFFF" width="42" alt="FastAPI" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/FFFFFF" width="42" alt="PostgreSQL" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/FFFFFF" width="42" alt="Docker" />
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-262626?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-262626?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-262626?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-262626?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-262626?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-262626?style=flat&logo=docker&logoColor=white)
 
 ### 03 / DEVELOPMENT TOOLS
 
+![Git](https://img.shields.io/badge/Git-171717?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-171717?style=flat&logo=notion&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-171717?style=flat&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-171717?style=flat&logo=apple&logoColor=white)
 
-<p>
-  <img src="https://cdn.simpleicons.org/git/FFFFFF" width="42" alt="Git" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" alt="GitHub" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/notion/FFFFFF" width="42" alt="Notion" />
-</p>
-
-<p>VS Code / macOS</p>
 
 
 ### 04 / CURRENT FOCUS
