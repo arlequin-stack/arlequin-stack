@@ -79,33 +79,16 @@ My future work will include frontend interfaces, backend APIs, and full-stack ap
 
 
 
+
 ### 06 / GITHUB ANALYTICS
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3>◈ Statistics</h3>
-<p><sub>01 / GITHUB OVERVIEW</sub></p>
-<hr>
-<table>
-<tr><td>Commits</td><td align="right"><b>85</b></td></tr>
-<tr><td>Stars</td><td align="right"><b>0</b></td></tr>
-<tr><td>Pull requests</td><td align="right"><b>0</b></td></tr>
-<tr><td>Contributed to</td><td align="right"><b>13</b></td></tr>
-</table>
-<p align="center"><sub>DEVELOPMENT / ACTIVITY</sub></p>
+<td width="50%" align="center" valign="top">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arlequin-stack&amp;theme=github_dark" alt="GitHub Statistics" width="100%">
 </td>
-<td width="50%" valign="top">
-<h3>⌘ Languages</h3>
-<p><sub>02 / CODE DISTRIBUTION</sub></p>
-<hr>
-<table>
-<tr><td>CSS</td><td align="right"><b>44.5%</b></td></tr>
-<tr><td>HTML</td><td align="right"><b>27.0%</b></td></tr>
-<tr><td>JavaScript</td><td align="right"><b>22.0%</b></td></tr>
-<tr><td>Python</td><td align="right"><b>6.5%</b></td></tr>
-</table>
-<p align="center"><sub>LANGUAGES / OVERVIEW</sub></p>
+<td width="50%" align="center" valign="top">
+<img src="https://ghstats.dev/api/langs?username=arlequin-stack&amp;layout=horizontal_list&amp;max_langs=4&amp;bg=0D1117&amp;text=FFFFFF&amp;title_color=00BFFF&amp;hide_border=true" alt="Top Languages" width="100%">
 </td>
 </tr>
 </table>
@@ -113,9 +96,10 @@ My future work will include frontend interfaces, backend APIs, and full-stack ap
 <div align="center">
 <h3>CONTRIBUTION ACTIVITY</h3>
 <a href="https://github.com/arlequin-stack">
-<img src="https://ghchart.rshah.org/00BFFF/arlequin-stack" alt="GitHub Contribution Graph" width="100%">
+<img src="https://ghchart.rshah.org/00BFFF/arlequin-stack" alt="GitHub Contribution Activity" width="100%">
 </a>
 </div>
+
 
 
 
