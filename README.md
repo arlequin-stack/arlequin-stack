@@ -86,10 +86,25 @@ My future work will include frontend interfaces, backend APIs, and full-stack ap
 <h3><img src="https://cdn.simpleicons.org/github/FFFFFF" width="22" height="22" alt="GitHub"> &nbsp; Statistics</h3>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arlequin-stack&theme=github_dark" alt="GitHub Statistics" width="100%">
 </td>
+
 <td width="50%" align="center" valign="top">
-<h3>Languages</h3>
-<img src="https://ghstats.dev/api/langs?username=arlequin-stack&layout=horizontal_list&max_langs=5&bg=0D1117&text=FFFFFF&title_color=00BFFF&hide_border=true" alt="Top Languages" width="100%">
+  <h3>Languages</h3>
+  <p><sub>LANGUAGE DISTRIBUTION</sub></p>
+  <img src="https://ghstats.dev/api/langs?username=arlequin-stack&amp;layout=bar&amp;max_langs=4&amp;bg=0D1117&amp;text=FFFFFF&amp;title_color=00BFFF&amp;hide_border=true" alt="Dynamic language distribution" width="100%">
+  <p><sub>TECHNOLOGY OVERVIEW</sub></p>
+  <table>
+    <tr>
+      <td width="50%"><strong>01 / HTML</strong><br><sub>Web structure</sub></td>
+      <td width="50%"><strong>02 / CSS</strong><br><sub>Styling and layouts</sub></td>
+    </tr>
+    <tr>
+      <td><strong>03 / JavaScript</strong><br><sub>Logic and interaction</sub></td>
+      <td><strong>04 / Python</strong><br><sub>Backend learning</sub></td>
+    </tr>
+  </table>
+  <p><sub>BUILDING MY FULL STACK FOUNDATION</sub></p>
 </td>
+
 </tr>
 </table>
 
