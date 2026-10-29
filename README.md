@@ -1,5 +1,5 @@
 
-<div align="center">
+ <div align="center">
 
 # ARLEQUIN.
 
@@ -75,13 +75,54 @@ Currently building my programming foundations through hands-on practice and pers
 
 My future work will include frontend interfaces, backend APIs, and full-stack applications.
 
+---
 
+### 06 / PERSONAL PORTFOLIO
 
+<div align="center">
 
+#### ARLEQUIN — DEVELOPER PORTFOLIO
 
+**A personal website documenting my journey into Full Stack development.**
 
+![Status](https://img.shields.io/badge/STATUS-WORK_IN_PROGRESS-00BFFF?style=flat&labelColor=171717&color=00BFFF)
+![GitHub Pages](https://img.shields.io/badge/HOSTED_ON-GITHUB_PAGES-171717?style=flat&logo=github&logoColor=white)
 
-### 06 / GITHUB ANALYTICS
+</div>
+
+My portfolio is a long-term educational project that will grow alongside my programming knowledge and practical experience.
+
+It currently serves as a foundation for experimenting with web development, presenting projects, and documenting my progress.
+
+**Development Roadmap**
+
+- [x] Initial website structure
+- [x] GitHub Pages deployment
+- [ ] Improve responsive design and visual identity
+- [ ] Introduce JavaScript interactions
+- [ ] Expand project showcases
+- [ ] Rebuild with React and TypeScript
+- [ ] Add advanced features as my skills improve
+
+**Current Technologies**
+
+![HTML5](https://img.shields.io/badge/HTML5-171717?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-171717?style=flat&logo=css&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-171717?style=flat&logo=github&logoColor=white)
+
+<div align="center">
+
+[![VIEW PORTFOLIO](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-00BFFF?style=flat&logo=googlechrome&logoColor=white)](https://arlequin-stack.github.io/)
+
+**[arlequin-stack.github.io](https://arlequin-stack.github.io/)**
+
+*Built step by step. Improved with every new skill.*
+
+</div>
+
+---
+
+### 07 / GITHUB ANALYTICS
 
 <table>
 <tr>
@@ -89,11 +130,7 @@ My future work will include frontend interfaces, backend APIs, and full-stack ap
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arlequin-stack&amp;theme=dark&amp;bg_color=0D1117&amp;title_color=FFFFFF&amp;text_color=FFFFFF&amp;icon_color=00BFFF&amp;chart_color=00BFFF&amp;border_color=30363D" alt="GitHub Statistics" width="100%">
 </td>
 <td width="50%" align="center" valign="middle">
-<img
-  src="https://ghstats.dev/api/langs?username=arlequin-stack&amp;layout=horizontal_list&amp;max_langs=4&amp;bg=0D1117&amp;text=FFFFFF&amp;title_color=FFFFFF&amp;hide_border=true"
-  alt="Top Languages"
-  width="100%"
->
+<img src="https://ghstats.dev/api/langs?username=arlequin-stack&amp;layout=horizontal_list&amp;max_langs=4&amp;bg=0D1117&amp;text=FFFFFF&amp;title_color=FFFFFF&amp;hide_border=true" alt="Top Languages" width="100%">
 </td>
 </tr>
 </table>
@@ -105,10 +142,6 @@ My future work will include frontend interfaces, backend APIs, and full-stack ap
 </a>
 </div>
 
-
-
-
-
 ---
 
 <div align="center">
@@ -119,7 +152,7 @@ My future work will include frontend interfaces, backend APIs, and full-stack ap
 
 **ARLEQUIN © 2026**
 
-[GitHub Profile](https://github.com/arlequin-stack)
+[GitHub Profile](https://github.com/arlequin-stack) · [Personal Portfolio](https://arlequin-stack.github.io/)
 
 </div>
 
