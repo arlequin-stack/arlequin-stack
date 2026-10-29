@@ -94,7 +94,7 @@ My future work will include frontend interfaces, backend APIs, and full-stack ap
 <div align="center">
 <h3>CONTRIBUTION ACTIVITY</h3>
 <a href="https://github.com/arlequin-stack">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arlequin-stack&amp;bg_color=0D1117&amp;color=94A3B8&amp;line=00BFFF&amp;point=F8FAFC&amp;area=true&amp;area_color=0369A1&amp;hide_border=true&amp;custom_title=Contribution%20Activity" alt="Dynamic GitHub contribution activity graph for arlequin-stack" width="100%">
+<img src="https://ghchart.rshah.org/00BFFF/arlequin-stack" alt="Dynamic GitHub contribution activity graph for arlequin-stack" width="100%">
 </a>
 </div>
 
