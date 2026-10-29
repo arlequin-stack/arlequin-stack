@@ -33,28 +33,48 @@ Mission    : Learn. Build. Improve.
 
 ### 02 / TECH STACK
 
-**Currently learning**
+<h3>02 / TECH STACK</h3>
 
-![HTML5](https://img.shields.io/badge/HTML5-171717?style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS3-171717?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat-square)
-![Python](https://img.shields.io/badge/Python-171717?style=flat-square)
+<p><b>Currently learning</b></p>
 
-**On my roadmap**
+<p>
+  <img src="https://cdn.simpleicons.org/html5/FFFFFF" width="42" alt="HTML5" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css/FFFFFF" width="42" alt="CSS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="42" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/FFFFFF" width="42" alt="Python" />
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat-square)
-![React](https://img.shields.io/badge/React-333333?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-333333?style=flat-square)
+<p><b>On my roadmap</b></p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/typescript/FFFFFF" width="42" alt="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/FFFFFF" width="42" alt="React" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" width="42" alt="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/FFFFFF" width="42" alt="FastAPI" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/FFFFFF" width="42" alt="PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/FFFFFF" width="42" alt="Docker" />
+</p>
 
 ### 03 / DEVELOPMENT TOOLS
+<h3>03 / DEVELOPMENT TOOLS</h3>
 
-![VS Code](https://img.shields.io/badge/VS_Code-171717?style=flat-square)
-![Git](https://img.shields.io/badge/Git-171717?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square)
-![Notion](https://img.shields.io/badge/Notion-171717?style=flat-square)
+<p>
+  <img src="https://cdn.simpleicons.org/git/FFFFFF" width="42" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" alt="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/notion/FFFFFF" width="42" alt="Notion" />
+</p>
+
+<p>VS Code / macOS</p>
 
 
 ### 04 / CURRENT FOCUS
