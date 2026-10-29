@@ -77,19 +77,60 @@ My future work will include frontend interfaces, backend APIs, and full-stack ap
 
 
 
+
 ### 06 / GITHUB ACTIVITY
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arlequin-stack&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=00BFFF)
+<h2>
+  <img
+    src="https://cdn.simpleicons.org/github/FFFFFF"
+    width="26"
+    height="26"
+    alt="GitHub"
+  />
+  &nbsp; Statistics
+</h2>
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arlequin-stack&theme=dark&bg_color=0D1117&text_color=FFFFFF&chart_color=00BFFF)
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arlequin-stack&theme=dark"
+  alt="GitHub Statistics"
+  width="100%"
+/>
+
+    </td>
+    <td width="50%" align="center" valign="top">
+
+<h2>Languages</h2>
+
+<img
+  src="https://ghstats.dev/api/langs?username=arlequin-stack&layout=horizontal_list&max_langs=5&bg=0D1117&text=FFFFFF&title_color=00BFFF&hide_border=true"
+  alt="Programming Languages"
+  width="100%"
+/>
+
+    </td>
+  </tr>
+</table>
 
 <br>
 
-[![GitHub Contributions](https://ghchart.xqsit94.in/dark:00BFFF/arlequin-stack)](https://github.com/arlequin-stack)
+<div align="center">
+
+<h3>CONTRIBUTION ACTIVITY</h3>
+
+<a href="https://github.com/arlequin-stack">
+  <img
+    src="https://ghchart.rshah.org/00BFFF/arlequin-stack"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
+</a>
 
 </div>
+
 
 
 
