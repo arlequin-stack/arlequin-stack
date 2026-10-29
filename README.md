@@ -76,17 +76,21 @@ Currently building my programming foundations through hands-on practice and pers
 My future work will include frontend interfaces, backend APIs, and full-stack applications.
 
 
+
 ### 06 / GITHUB ACTIVITY
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arlequin-stack&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&hide_rank=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arlequin-stack&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=00BFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arlequin-stack&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=6)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arlequin-stack&theme=dark&bg_color=0D1117&text_color=FFFFFF&chart_color=00BFFF)
 
-[![GitHub Contributions](https://ghchart.rshah.org/555555/arlequin-stack)](https://github.com/arlequin-stack)
+<br>
+
+[![GitHub Contributions](https://ghchart.xqsit94.in/dark:00BFFF/arlequin-stack)](https://github.com/arlequin-stack)
 
 </div>
+
 
 
 ---
