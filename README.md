@@ -33,7 +33,7 @@ Mission    : Learn. Build. Improve.
 
 ### 02 / TECH STACK
 
-<h3>02 / TECH STACK</h3>
+
 
 <p><b>Currently learning</b></p>
 
@@ -64,7 +64,7 @@ Mission    : Learn. Build. Improve.
 </p>
 
 ### 03 / DEVELOPMENT TOOLS
-<h3>03 / DEVELOPMENT TOOLS</h3>
+
 
 <p>
   <img src="https://cdn.simpleicons.org/git/FFFFFF" width="42" alt="Git" />
