@@ -50,6 +50,7 @@ as I progress through my learning roadmap.
 - [ ] Learn Git and GitHub workflows
 - [ ] Build my first portfolio projects
 - [ ] Explore modern frontend development
+- [ ] Master Git and GitHub with VS Code
 
 ---
 
