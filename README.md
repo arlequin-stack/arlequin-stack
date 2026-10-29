@@ -90,7 +90,7 @@ My future work will include frontend interfaces, backend APIs, and full-stack ap
 </td>
 <td width="50%" align="center" valign="middle">
 <img
-  src="https://ghstats.dev/api/langs?username=arlequin-stack&amp;layout=horizontal_list&amp;max_langs=4&amp;bg=0D1117&amp;text=FFFFFF&amp;title_color=00BFFF&amp;hide_border=true"
+  src="https://ghstats.dev/api/langs?username=arlequin-stack&amp;layout=horizontal_list&amp;max_langs=4&amp;bg=0D1117&amp;text=FFFFFF&amp;title_color=FFFFFF&amp;hide_border=true"
   alt="Top Languages"
   width="100%"
 >
