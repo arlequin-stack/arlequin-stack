@@ -1,6 +1,6 @@
 <svg width="600" height="380" viewBox="0 0 600 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Languages</title>
-  <desc id="desc">Language distribution across public non-fork repositories for arlequin-stack: CSS 44.5%, HTML 27.0%, JavaScript 22.0%, Python 6.5%.</desc>
+  <desc id="desc">Language distribution across public non-fork repositories for arlequin-stack: Python 48.0%, TypeScript 32.4%, CSS 9.0%, Other 10.6%.</desc>
   <defs>
     <linearGradient id="bg" x1="24" y1="16" x2="576" y2="364" gradientUnits="userSpaceOnUse">
       <stop stop-color="#111827"/><stop offset="0.52" stop-color="#080D15"/><stop offset="1" stop-color="#03060B"/>
@@ -23,26 +23,26 @@
   <rect x="44" y="108" width="512" height="1.5" rx=".75" fill="url(#accent)" opacity=".78"/>
   <g font-family="Inter,Segoe UI,Arial,sans-serif">
   <circle cx="49" cy="142" r="4" fill="#38BDF8"/>
-    <text x="62" y="147" fill="#E2E8F0" font-size="13" font-weight="700">CSS</text>
-    <text x="556" y="147" fill="#F8FAFC" text-anchor="end" font-size="16" font-weight="750">44.5%</text>
+    <text x="62" y="147" fill="#E2E8F0" font-size="13" font-weight="700">Python</text>
+    <text x="556" y="147" fill="#F8FAFC" text-anchor="end" font-size="16" font-weight="750">48.0%</text>
     <rect x="62" y="158" width="494" height="4" rx="2" fill="#1E293B"/>
-    <rect x="62" y="158" width="219.95" height="4" rx="2" fill="#38BDF8"/>
+    <rect x="62" y="158" width="237.03" height="4" rx="2" fill="#38BDF8"/>
   <circle cx="49" cy="188" r="4" fill="#60A5FA"/>
-    <text x="62" y="193" fill="#E2E8F0" font-size="13" font-weight="700">HTML</text>
-    <text x="556" y="193" fill="#F8FAFC" text-anchor="end" font-size="16" font-weight="750">27.0%</text>
+    <text x="62" y="193" fill="#E2E8F0" font-size="13" font-weight="700">TypeScript</text>
+    <text x="556" y="193" fill="#F8FAFC" text-anchor="end" font-size="16" font-weight="750">32.4%</text>
     <rect x="62" y="204" width="494" height="4" rx="2" fill="#1E293B"/>
-    <rect x="62" y="204" width="133.13" height="4" rx="2" fill="#60A5FA"/>
+    <rect x="62" y="204" width="159.94" height="4" rx="2" fill="#60A5FA"/>
   <circle cx="49" cy="234" r="4" fill="#A5F3FC"/>
-    <text x="62" y="239" fill="#E2E8F0" font-size="13" font-weight="700">JavaScript</text>
-    <text x="556" y="239" fill="#F8FAFC" text-anchor="end" font-size="16" font-weight="750">22.0%</text>
+    <text x="62" y="239" fill="#E2E8F0" font-size="13" font-weight="700">CSS</text>
+    <text x="556" y="239" fill="#F8FAFC" text-anchor="end" font-size="16" font-weight="750">9.0%</text>
     <rect x="62" y="250" width="494" height="4" rx="2" fill="#1E293B"/>
-    <rect x="62" y="250" width="108.85" height="4" rx="2" fill="#A5F3FC"/>
+    <rect x="62" y="250" width="44.65" height="4" rx="2" fill="#A5F3FC"/>
   <circle cx="49" cy="280" r="4" fill="#334155"/>
-    <text x="62" y="285" fill="#E2E8F0" font-size="13" font-weight="700">Python</text>
-    <text x="556" y="285" fill="#F8FAFC" text-anchor="end" font-size="16" font-weight="750">6.5%</text>
+    <text x="62" y="285" fill="#E2E8F0" font-size="13" font-weight="700">Other</text>
+    <text x="556" y="285" fill="#F8FAFC" text-anchor="end" font-size="16" font-weight="750">10.6%</text>
     <rect x="62" y="296" width="494" height="4" rx="2" fill="#1E293B"/>
-    <rect x="62" y="296" width="32.07" height="4" rx="2" fill="#334155"/>
+    <rect x="62" y="296" width="52.38" height="4" rx="2" fill="#334155"/>
   </g>
   <text x="44" y="350" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.1">LIVE PUBLIC DATA</text>
-  <text x="556" y="350" fill="#64748B" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.1">UPDATED 2026-10-29 UTC</text>
+  <text x="556" y="350" fill="#64748B" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.1">UPDATED 2026-10-30 UTC</text>
 </svg>
