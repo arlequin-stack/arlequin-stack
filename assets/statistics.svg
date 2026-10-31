@@ -1,6 +1,6 @@
 <svg width="600" height="380" viewBox="0 0 600 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Statistics</title>
-  <desc id="desc">Public GitHub statistics for arlequin-stack: 34 commits, 1 stars, 4 pull requests, and 3 repositories.</desc>
+  <desc id="desc">Public GitHub statistics for arlequin-stack: 36 commits, 1 stars, 4 pull requests, and 3 repositories.</desc>
   <defs>
     <linearGradient id="bg" x1="24" y1="16" x2="576" y2="364" gradientUnits="userSpaceOnUse">
       <stop stop-color="#111827"/><stop offset="0.52" stop-color="#080D15"/><stop offset="1" stop-color="#03060B"/>
@@ -24,7 +24,7 @@
   <g font-family="Inter,Segoe UI,Arial,sans-serif">
   <text x="44" y="148" fill="#E2E8F0" font-size="13" font-weight="700" letter-spacing=".8">COMMITS</text>
     <text x="44" y="164" fill="#64748B" font-size="9" font-weight="600" letter-spacing=".8">PUBLIC AUTHOR MATCHES</text>
-    <text x="556" y="157" fill="#F8FAFC" text-anchor="end" font-size="24" font-weight="750">34</text>
+    <text x="556" y="157" fill="#F8FAFC" text-anchor="end" font-size="24" font-weight="750">36</text>
   <rect x="44" y="176" width="512" height="1" fill="#FFFFFF" opacity=".07"/>
   <text x="44" y="194" fill="#E2E8F0" font-size="13" font-weight="700" letter-spacing=".8">STARS</text>
     <text x="44" y="210" fill="#64748B" font-size="9" font-weight="600" letter-spacing=".8">ON OWNED REPOSITORIES</text>
@@ -39,5 +39,5 @@
     <text x="556" y="295" fill="#F8FAFC" text-anchor="end" font-size="24" font-weight="750">3</text>
   </g>
   <text x="44" y="350" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.1">LIVE PUBLIC DATA</text>
-  <text x="556" y="350" fill="#64748B" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.1">UPDATED 2026-10-30 UTC</text>
+  <text x="556" y="350" fill="#64748B" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.1">UPDATED 2026-10-31 UTC</text>
 </svg>
